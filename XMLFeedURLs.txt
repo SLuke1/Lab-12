@@ -1,0 +1,5 @@
+https://feeds.bbci.co.uk/news/world/rss.xml
+https://feeds.bbci.co.uk/news/technology/rss.xml
+https://www.nasa.gov/rss/dyn/breaking_news.rss
+https://www.npr.org/rss/rss.php?id=1001
+https://www.theguardian.com/world/rss
